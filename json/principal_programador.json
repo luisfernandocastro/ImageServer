@@ -1,0 +1,37 @@
+[
+    {
+        "id": 4,
+        "image": "programadores/programador_pedro.jpeg",
+        "nombre": "Pedro"
+    },
+    {
+        "id": 5,
+        "image": "programadores/programador_juan.jpeg",
+        "nombre": "Juan"
+    },
+    {
+        "id": 6,
+        "image": "programadores/programador_carlos.jpeg",
+        "nombre": "Carlos"
+    },
+    {
+        "id": 7,
+        "image": "programadores/programador_juanita.jpeg",
+        "nombre": "Juanita"
+    },
+    {
+        "id": 8,
+        "image": "programadores/programador_antonio.jpeg",
+        "nombre": "Antonio"
+    },
+    {
+        "id": 9,
+        "image": "programadores/programador_carolina.jpeg",
+        "nombre": "Carolina"
+    },
+    {
+        "id": 10,
+        "image": "programadores/programador_manuel.jpeg",
+        "nombre": "Manuel"
+    }
+]

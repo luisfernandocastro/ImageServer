@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "modulos/modulo_nomina.png",
+        "nombre": "Nomina"
+    },
+    {
+        "id": 2,
+        "image": "modulos/modulo_facturacion.jpg",
+        "nombre": "Facturacion"
+    },
+    {
+        "id": 3,
+        "image": "modulos/modulo_recibo.png",
+        "nombre": "Recibos"
+    },
+    {
+        "id": 4,
+        "image": "modulos/modulo_comprobante_yBjB5oo.png",
+        "nombre": "Comprobante contable"
+    },
+    {
+        "id": 5,
+        "image": "modulos/modulo_contabilidad.png",
+        "nombre": "Contabilidad"
+    },
+    {
+        "id": 6,
+        "image": "modulos/modulo_usuarios.png",
+        "nombre": "Usuarios"
+    }
+]

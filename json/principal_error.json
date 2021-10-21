@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "errores/error_404.jpg",
+        "nombre": "404"
+    },
+    {
+        "id": 2,
+        "image": "errores/error_stack_overflow.png",
+        "nombre": "Stack overflow"
+    },
+    {
+        "id": 3,
+        "image": "errores/error_memory.png",
+        "nombre": "Memory out of rang"
+    },
+    {
+        "id": 4,
+        "image": "errores/error_nullpointer.png",
+        "nombre": "Null pointer"
+    },
+    {
+        "id": 5,
+        "image": "errores/error_syntax.jpg",
+        "nombre": "Syntax error"
+    },
+    {
+        "id": 6,
+        "image": "errores/error_encoding.jpg",
+        "nombre": "Encoding error"
+    }
+]
